@@ -1,0 +1,4 @@
+import mergesort
+
+mergesort.mergeSort([])
+
